@@ -16,7 +16,7 @@ If develop using PHP Native follow this instructions:
 5) User can click "Submit" button to add data into the database or "Back" Button in the list page.
 
 **Statistic Page**
-1) The Statistic page should have Bar Chart that shows amount of users based on their Phone Brand.
+1) The Statistic page should have Bar Chart that shows amount of users based on their Phone Brand. (Chart js)
 
 **Additional Page**
 1) Create header page that have Navbar that can navigate between each page listed above and need to be included in all page.
@@ -29,4 +29,5 @@ If develop using PHP Native follow this instructions:
 *Only brand and model table are given in assessment.sql
 
 Additional Marks:
-Add Pagination on List Page and Form page have common validation for each fields. 
+1) Add Pagination on List Page and Form page have common validation for each fields. 
+2) Send before due date is preferable.
