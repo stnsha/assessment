@@ -29,5 +29,7 @@ If develop using PHP Native follow this instructions:
 *Only brand and model table are given in assessment.sql
 
 Additional Marks:
-1) Add Pagination on List Page and Form page have common validation for each fields. 
-2) Send before due date is preferable.
+1) Add Pagination on List Page
+2) Form page should have common validation for each fields. 
+3) Please consider to sanitize the data.
+4) Send before due date is preferable.
