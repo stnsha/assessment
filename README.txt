@@ -1,4 +1,4 @@
-If develop using PHP Native follow this instructions:
+For the Programmer candidate please follow this instructions:
 
 ### Create 1 Form page, 1 List page and 1 Statistic page that implement CRUD operations. ### 
 **List Page**
