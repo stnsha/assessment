@@ -18,7 +18,7 @@ For the Programmer candidate please follow this instructions:
 **Statistic Page**
 1) The Statistic page should have Bar Chart that shows amount of users based on their Phone Brand. (Chart js)
 
-**Additional Page**
+**Additional file**
 1) Create header page that have Navbar that can navigate between each page listed above and need to be included in all page.
 2) Create footer page that have footer information about the website such as copyright etc and need to be included in all page.
 3) This Additional page must store in inc folder.
